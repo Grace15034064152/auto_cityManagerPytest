@@ -1,0 +1,62 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554622955518" stop="1554622955870">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554622955518" status="passed" stop="1554622955636">
+      <name>E:\pythonWorkplace\PytestAPI\testcase\sys.test_changePwd.Test_ChangePwd.test_changePwd_success</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改密码成功"/>
+        <label name="feature" value="修改密码模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6592-MainThread"/>
+        <label name="host" value="6W2JHH4PBG0AGNC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554622955641" status="passed" stop="1554622955687">
+      <name>E:\pythonWorkplace\PytestAPI\testcase\sys.test_changePwd.Test_ChangePwd.test_changePwd_recovery</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="恢复密码成功"/>
+        <label name="feature" value="修改密码模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6592-MainThread"/>
+        <label name="host" value="6W2JHH4PBG0AGNC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554622955691" status="passed" stop="1554622955730">
+      <name>E:\pythonWorkplace\PytestAPI\testcase\sys.test_getUserInfo.Test_userInfo.test_userInfo</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="获取用户信息成功"/>
+        <label name="feature" value="获取用户信息"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6592-MainThread"/>
+        <label name="host" value="6W2JHH4PBG0AGNC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554622955733" status="passed" stop="1554622955870">
+      <name>E:\pythonWorkplace\PytestAPI\testcase\user.test_look.Test_Look.test_look_success</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="注册成功"/>
+        <label name="feature" value="注册模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6592-MainThread"/>
+        <label name="host" value="6W2JHH4PBG0AGNC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

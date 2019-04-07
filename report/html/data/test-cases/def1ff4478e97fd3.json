@@ -1,0 +1,66 @@
+{
+  "uid" : "def1ff4478e97fd3",
+  "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\sys.test_getUserInfo.Test_userInfo.test_userInfo",
+  "fullName" : "testcase.E:\\pythonWorkplace\\PytestAPI\\testcase\\sys.test_getUserInfo.Test_userInfo.test_userInfo",
+  "historyId" : "4a00b5f9d2def1a52352979c67c9f616",
+  "time" : {
+    "start" : 1554616857281,
+    "stop" : 1554616858034,
+    "duration" : 753
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "获取用户信息"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "6W2JHH4PBG0AGNC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "获取用户信息成功"
+  }, {
+    "name" : "thread",
+    "value" : "3708-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\sys.test_getUserInfo.Test_userInfo.test_userInfo"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "def1ff4478e97fd3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,41 @@
+[ {
+  "uid" : "eca59a56e6ee5bac",
+  "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\sys.test_changePwd.Test_ChangePwd.test_changePwd_recovery",
+  "time" : {
+    "start" : 1554616856330,
+    "stop" : 1554616857278,
+    "duration" : 948
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3ced19d6e73d036",
+  "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\user.test_look.Test_Look.test_look_success",
+  "time" : {
+    "start" : 1554616858036,
+    "stop" : 1554616862664,
+    "duration" : 4628
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cd60b081a3d6c39",
+  "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\sys.test_changePwd.Test_ChangePwd.test_changePwd_success",
+  "time" : {
+    "start" : 1554616852531,
+    "stop" : 1554616856327,
+    "duration" : 3796
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "def1ff4478e97fd3",
+  "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\sys.test_getUserInfo.Test_userInfo.test_userInfo",
+  "time" : {
+    "start" : 1554616857281,
+    "stop" : 1554616858034,
+    "duration" : 753
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

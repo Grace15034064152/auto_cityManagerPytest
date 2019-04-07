@@ -1,0 +1,66 @@
+{
+  "uid" : "d3ced19d6e73d036",
+  "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\user.test_look.Test_Look.test_look_success",
+  "fullName" : "testcase.E:\\pythonWorkplace\\PytestAPI\\testcase\\user.test_look.Test_Look.test_look_success",
+  "historyId" : "db0f9bd391f0fa18aecf54c9394196d",
+  "time" : {
+    "start" : 1554616858036,
+    "stop" : 1554616862664,
+    "duration" : 4628
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "注册模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "6W2JHH4PBG0AGNC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "注册成功"
+  }, {
+    "name" : "thread",
+    "value" : "3708-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\user.test_look.Test_Look.test_look_success"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3ced19d6e73d036.json",
+  "parameterValues" : [ ]
+}

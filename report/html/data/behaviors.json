@@ -1,0 +1,81 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "修改密码模块",
+    "children" : [ {
+      "name" : "修改密码成功",
+      "children" : [ {
+        "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\sys.test_changePwd.Test_ChangePwd.test_changePwd_success",
+        "uid" : "9cd60b081a3d6c39",
+        "parentUid" : "a38462b3f4314282ccc0eb63786aa59e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554616852531,
+          "stop" : 1554616856327,
+          "duration" : 3796
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a38462b3f4314282ccc0eb63786aa59e"
+    }, {
+      "name" : "恢复密码成功",
+      "children" : [ {
+        "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\sys.test_changePwd.Test_ChangePwd.test_changePwd_recovery",
+        "uid" : "eca59a56e6ee5bac",
+        "parentUid" : "c056af64906bbc55e209cde2e0170040",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554616856330,
+          "stop" : 1554616857278,
+          "duration" : 948
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c056af64906bbc55e209cde2e0170040"
+    } ],
+    "uid" : "305a3b4fed53266ad019359911e11777"
+  }, {
+    "name" : "获取用户信息",
+    "children" : [ {
+      "name" : "获取用户信息成功",
+      "children" : [ {
+        "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\sys.test_getUserInfo.Test_userInfo.test_userInfo",
+        "uid" : "def1ff4478e97fd3",
+        "parentUid" : "38dd0e9749a936e079f0a94f0fe066d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554616857281,
+          "stop" : 1554616858034,
+          "duration" : 753
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "38dd0e9749a936e079f0a94f0fe066d7"
+    } ],
+    "uid" : "b97b63fdb506c12b51128531c9f7b618"
+  }, {
+    "name" : "注册模块",
+    "children" : [ {
+      "name" : "注册成功",
+      "children" : [ {
+        "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\user.test_look.Test_Look.test_look_success",
+        "uid" : "d3ced19d6e73d036",
+        "parentUid" : "d5ee94ade2eb61661c2b736fb886145e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554616858036,
+          "stop" : 1554616862664,
+          "duration" : 4628
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d5ee94ade2eb61661c2b736fb886145e"
+    } ],
+    "uid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c"
+  } ]
+}

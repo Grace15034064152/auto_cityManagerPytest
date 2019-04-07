@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","testcase.E:\pythonWorkplace\PytestAPI\testcase\sys.test_changePwd.Test_ChangePwd.test_changePwd_recovery","948",""
+"passed","testcase.E:\pythonWorkplace\PytestAPI\testcase\sys.test_getUserInfo.Test_userInfo.test_userInfo","753",""
+"passed","testcase.E:\pythonWorkplace\PytestAPI\testcase\user.test_look.Test_Look.test_look_success","4628",""
+"passed","testcase.E:\pythonWorkplace\PytestAPI\testcase\sys.test_changePwd.Test_ChangePwd.test_changePwd_success","3796",""

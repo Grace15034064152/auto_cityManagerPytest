@@ -1,0 +1,61 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "6W2JHH4PBG0AGNC",
+    "children" : [ {
+      "name" : "3708-MainThread",
+      "children" : [ {
+        "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\sys.test_changePwd.Test_ChangePwd.test_changePwd_recovery",
+        "uid" : "eca59a56e6ee5bac",
+        "parentUid" : "4a741b4208d3a0f878d870ef1a9ff4d5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554616856330,
+          "stop" : 1554616857278,
+          "duration" : 948
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\sys.test_getUserInfo.Test_userInfo.test_userInfo",
+        "uid" : "def1ff4478e97fd3",
+        "parentUid" : "4a741b4208d3a0f878d870ef1a9ff4d5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554616857281,
+          "stop" : 1554616858034,
+          "duration" : 753
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\user.test_look.Test_Look.test_look_success",
+        "uid" : "d3ced19d6e73d036",
+        "parentUid" : "4a741b4208d3a0f878d870ef1a9ff4d5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554616858036,
+          "stop" : 1554616862664,
+          "duration" : 4628
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\pythonWorkplace\\PytestAPI\\testcase\\sys.test_changePwd.Test_ChangePwd.test_changePwd_success",
+        "uid" : "9cd60b081a3d6c39",
+        "parentUid" : "4a741b4208d3a0f878d870ef1a9ff4d5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554616852531,
+          "stop" : 1554616856327,
+          "duration" : 3796
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4a741b4208d3a0f878d870ef1a9ff4d5"
+    } ],
+    "uid" : "63154b41adee8d6a0f915eeedf00cc57"
+  } ]
+}
