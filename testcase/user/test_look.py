@@ -52,5 +52,3 @@ class Test_Look:
         resp = http.post(path, data)
         print(resp)
         assert resp['code'] == 200
-
-#

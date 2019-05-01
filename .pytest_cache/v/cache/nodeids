@@ -1,0 +1,6 @@
+[
+  "testcase/sys/test_changePwd.py::Test_ChangePwd::()::test_changePwd_success",
+  "testcase/sys/test_changePwd.py::Test_ChangePwd::()::test_changePwd_recovery",
+  "testcase/sys/test_getUserInfo.py::Test_userInfo::()::test_userInfo",
+  "testcase/user/test_look.py::Test_Look::()::test_look_success"
+]

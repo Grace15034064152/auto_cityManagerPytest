@@ -1,0 +1,8 @@
+{
+  "testcase/sys/test_getUserInfo.py::Test_userInfo::()::test_userInfo": true,
+  "testcase/sys/test_login.py::Test_login::()::test_login_fail": true,
+  "testcase/sys/test_login.py::Test_login::()::test_login_success": true,
+  "testcase/test_mycase.py::test_first": true,
+  "testcase/user/test_look.py::Test_Look::()::test_look_success": true,
+  "testcase/user/test_look.py::Test_Look::()::test_register_success": true
+}
